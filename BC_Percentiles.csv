@@ -1,0 +1,13 @@
+Pitcher,TaggedPitchType,Max Velo,Max Spin,MaxVelo_percentile,MaxVelo_ranking,MaxSpin_percentile,MaxSpin_ranking
+Henry Leake,Fastball,89.2,2174,17,5,0,6
+Jason White,Fastball,89.2,2599,0,6,83,1
+Charlie Beilenson,Fastball,93.9,2398,67,2,17,5
+Fran Oschell iii,Fastball,98.2,2404,83,1,33,4
+Charlie Coon,Fastball,89.7,2562,33,4,67,2
+James Tallon,Fastball,93.8,2557,50,3,50,3
+Henry Leake,High,100,100,105,1,105,1
+Jason White,High,100,100,105,1,105,1
+Charlie Beilenson,High,100,100,105,1,105,1
+Fran Oschell iii,High,100,100,105,1,105,1
+Charlie Coon,High,100,100,105,1,105,1
+James Tallon,High,100,100,105,1,105,1
